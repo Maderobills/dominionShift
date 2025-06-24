@@ -5,65 +5,70 @@ const activePillar = ref(null)
 
 const pillars = [
   {
-    id: 1,
-    title: "Student Life & Culture",
-    subtitle: "Enriching Campus Experience",
-    policies: [
-      "Establish monthly cultural festivals celebrating diverse student backgrounds and traditions",
-      "Create dedicated spaces for student organizations and cultural activities",
-      "Implement a peer mentorship program connecting senior and junior students",
-      "Organize regular social events and networking opportunities across departments",
-      "Develop a student talent showcase platform for creative expression"
-    ]
-  },
-  {
-    id: 2,
-    title: "Academic Elevation",
-    subtitle: "Excellence in Learning",
-    policies: [
-      "Advocate for extended library hours and improved study facilities",
-      "Establish academic support centers with peer tutoring programs",
-      "Create research funding opportunities for undergraduate students",
-      "Implement digital learning resources and online course materials access",
-      "Develop career guidance and internship placement programs"
-    ]
-  },
-  {
-    id: 3,
-    title: "Mental Welfare & Wellbeing",
-    subtitle: "Holistic Student Support",
-    policies: [
-      "Establish confidential counseling services with trained professionals",
-      "Create wellness programs including meditation and stress management workshops",
-      "Implement mental health awareness campaigns and destigmatization initiatives",
-      "Develop peer support networks for students facing academic or personal challenges",
-      "Provide recreational facilities and fitness programs for physical wellbeing"
-    ]
-  },
-  {
-    id: 4,
-    title: "Innovation & Opportunity",
-    subtitle: "Empowering Future Leaders",
-    policies: [
-      "Launch an entrepreneurship incubator program for student startups",
-      "Create technology access points with modern computing resources",
-      "Establish partnerships with industry leaders for internship opportunities",
-      "Develop innovation challenges and competitions with meaningful prizes",
-      "Implement skills development workshops in emerging technologies"
-    ]
-  },
-  {
-    id: 5,
-    title: "Legacy & Transparency",
-    subtitle: "Accountable Leadership",
-    policies: [
-      "Publish monthly progress reports on all campaign promises and initiatives",
-      "Establish regular town hall meetings for student feedback and concerns",
-      "Create an open-door policy for direct communication with student leadership",
-      "Implement a suggestion box system with guaranteed response timelines",
-      "Document and share all SRC meeting minutes and decisions publicly"
-    ]
-  }
+  id: 1,
+  title: "Academic Elevation",
+  subtitle: "Boosting Learning and Skills",
+  policies: [
+    "Introduce an Academic Support Platform; where Excelling students can avail themselves to other students that need help in certain areas",
+    "Develop a digital platform where students can easily access All past questions for every faculty/ department and answer them on the platform to get results as well as corrections",
+    "Create a Dominion Calendar at the beginning of the term that tallies with the Academic plan for the semester and share with everyone",
+    "Revive/ Introduce an Academic committee to give us feedback and work closely with management especially concerning our timetables",
+    "Partner with lecturers/alumni for Encouragement, Motivation and diverse mentorship sessions, and Slack Forward Talks",
+    "Organize Bi-Semester/Semesterly skill workshops in tech, media, business, communication skills and writing skills workshops, including student-taught workshops"
+  ]
+},
+{
+  id: 2,
+  title: "Welfare and Mental Wellbeing",
+  subtitle: "Caring for Student Needs",
+  policies: [
+    "Create a Welfare Emergency Fund (transparent and regulated) for Student support, Bereavement etc",
+    "Establish a peer support system and work closely with welfare officers to attend to students struggling; by introducing Student and Professional driven therapy or counselling sessions",
+    "Set Up a digital Welfare Request Form to make it easy for students to access welfare packages",
+    "Give out Wellness Packs to students at the start of every exam including tissues, encouraging notes, pens, water and sweets",
+    "Provide OTC medications and seek NGO or alumni support for student financial relief"
+  ]
+},
+{
+  id: 3,
+  title: "Entrepreneurship & Growth",
+  subtitle: "Empowering Students Beyond School",
+  policies: [
+    "Build strong partnerships with public/government and private universities through the One Card System for student exchanges and event access",
+    "Have a Resume + internship + part-time jobs + External scholarship opportunity Help Desk on SRC´s website or on students notice board",
+    "Organize Semesterly Student Market Pop-Ups and register student businesses",
+    "Create a Business Connect Wall to promote student startups and services",
+    "Launch a Partnership Proposal Bank for reusable PDFs",
+    "Feature alumni stories bi-monthly and run skill-sharing series by students"
+  ]
+},
+{
+  id: 4,
+  title: "Student Life & Culture",
+  subtitle: "Enriching Campus Experience",
+  policies: [
+    "Reintroduce fun! Affordable but memorable events. Movie nights, themed dress days, paint-and-sips, bingo nights, Open Mic Nights, and others",
+    "Organize Dominion Inter-Faculty Games Festival once a year and Friendly Matches with Other Schools",
+    "Run Awareness Campaigns on student issues and revive student clubs including coding, debate, gaming, craft and UN clubs",
+    "Establish the DUC Content Creators Club for collaborations among influencers and content creators",
+    "Introduce an annual Multicultural event with traditional clothing and food representation",
+    "Create a Google Map Guide and Help Desk for international students",
+    "Introduce Intercity and International exchange programs and form soccer and basketball teams"
+  ]
+},
+{
+  id: 5,
+  title: "Legacy and Transparency",
+  subtitle: "Building Trust Through Accountability",
+  policies: [
+    "Provide end-of-term breakdown of SRC activities and spending",
+    "Deliver end-of-term project reports and hold quarterly student body meetings for open feedback",
+    "Launch an official SRC website displaying notices and concern statuses",
+    "Set up Cloud/Drive Storage for SRC docs and meeting minutes",
+    "Introduce SRC Merchandise Sales (caps, keyholders)"
+  ]
+}
+
 ]
 
 const togglePillar = (pillarId) => {
