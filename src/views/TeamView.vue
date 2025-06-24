@@ -15,7 +15,7 @@
       <div class="max-w-6xl mx-auto text-center mb-20">
         <h1 class="text-lg md:text-5xl lg:text-6xl font-serif font-light text-gray-800 leading-tight mb-6">
           <span class="block text-sm  md:text-2xl lg:text-3xl tracking-wider uppercase text-gray-600 font-light mb-2">Meet Our</span>
-          <span class="text-gray-900 font-normal tracking-wide">DEDICATED TEAM</span>
+          <span class="text-gray-900 font-normal tracking-wide">DEDICATED TEAM HOPEFUL '25</span>
         </h1>
         <div class="w-32 h-px bg-gradient-to-r from-transparent via-gray-400 to-transparent mx-auto mb-8"></div>
         <p class="text-sm md:text-xl text-gray-600 font-light italic leading-relaxed max-w-3xl mx-auto">
@@ -77,7 +77,7 @@
               </h3>
               <div class="w-16 h-px bg-gradient-to-r from-transparent via-gray-400 to-transparent mx-auto mb-3"></div>
               <p class="text-sm md:text-lg text-gray-600 font-light italic mb-4">
-                Vice President Candidate
+               Vice President Candidate
               </p>
               <p class="text-xs md:text-base text-gray-700 font-light leading-relaxed">
                 Strategic thinker and collaborative leader, focused on bridging student needs with administrative excellence and fostering inclusive campus dialogue.
@@ -90,18 +90,18 @@
             <div class="relative mb-8">
               <div class="w-48 h-48 mx-auto rounded-full border-3 border-gray-300 shadow-xl overflow-hidden bg-gradient-to-br from-gray-200 to-gray-300 group-hover:shadow-2xl transition-all duration-300">
                 <div class="w-full h-full flex items-center justify-center text-gray-500 text-base font-light">
-                  Team Photo
+                  <img src="/src/assets/Secretary.jpg" alt="Nicolina Nicosia Nana Nsowah-Nuamah" class="w-full h-full object-cover">
                 </div>
               </div>
               <div class="absolute -inset-2 border border-gray-400 rounded-full opacity-20 group-hover:opacity-30 transition-opacity"></div>
             </div>
             <div>
               <h3 class="md:text-xl font-serif font-light text-gray-800 tracking-wide mb-2">
-                DENNIS BORTEY BORTIER
+               VICTORIA OLUWANSOLA BAMIDLELE 
               </h3>
               <div class="w-16 h-px bg-gradient-to-r from-transparent via-gray-400 to-transparent mx-auto mb-3"></div>
               <p class="text-sm md:text-lg text-gray-600 font-light italic mb-4">
-                Vice President Candidate
+                General Secretary Candidate
               </p>
               <p class="text-xs md:text-base text-gray-700 font-light leading-relaxed">
                 Strategic thinker and collaborative leader, focused on bridging student needs with administrative excellence and fostering inclusive campus dialogue.
@@ -114,18 +114,18 @@
             <div class="relative mb-8">
               <div class="w-48 h-48 mx-auto rounded-full border-3 border-gray-300 shadow-xl overflow-hidden bg-gradient-to-br from-gray-200 to-gray-300 group-hover:shadow-2xl transition-all duration-300">
                 <div class="w-full h-full flex items-center justify-center text-gray-500 text-base font-light">
-                  Team Photo
+                  <img src="/src/assets/Finance.jpg" alt="Nicolina Nicosia Nana Nsowah-Nuamah" class="w-full h-full object-cover">
                 </div>
               </div>
               <div class="absolute -inset-2 border border-gray-400 rounded-full opacity-20 group-hover:opacity-30 transition-opacity"></div>
             </div>
             <div>
               <h3 class="md:text-xl font-serif font-light text-gray-800 tracking-wide mb-2">
-                DENNIS BORTEY BORTIER
+                EMMANUEL ADDO
               </h3>
               <div class="w-16 h-px bg-gradient-to-r from-transparent via-gray-400 to-transparent mx-auto mb-3"></div>
               <p class="text-sm md:text-lg text-gray-600 font-light italic mb-4">
-                Vice President Candidate
+                Financial Secretary Candidate
               </p>
               <p class="text-xs md:text-base text-gray-700 font-light leading-relaxed">
                 Strategic thinker and collaborative leader, focused on bridging student needs with administrative excellence and fostering inclusive campus dialogue.
@@ -138,18 +138,18 @@
             <div class="relative mb-8">
               <div class="w-48 h-48 mx-auto rounded-full border-3 border-gray-300 shadow-xl overflow-hidden bg-gradient-to-br from-gray-200 to-gray-300 group-hover:shadow-2xl transition-all duration-300">
                 <div class="w-full h-full flex items-center justify-center text-gray-500 text-base font-light">
-                  Team Photo
+                  <img src="/src/assets/pro.jpg" alt="Nicolina Nicosia Nana Nsowah-Nuamah" class="w-full h-full object-cover">
                 </div>
               </div>
               <div class="absolute -inset-2 border border-gray-400 rounded-full opacity-20 group-hover:opacity-30 transition-opacity"></div>
             </div>
             <div>
               <h3 class="md:text-xl font-serif font-light text-gray-800 tracking-wide mb-2">
-                DENNIS BORTEY BORTIER
+                JONATHAN ADO-KAMASAH
               </h3>
               <div class="w-16 h-px bg-gradient-to-r from-transparent via-gray-400 to-transparent mx-auto mb-3"></div>
               <p class="text-sm md:text-lg text-gray-600 font-light italic mb-4">
-                Vice President Candidate
+                Public Relation Officer Candidate
               </p>
               <p class="text-xs md:text-base text-gray-700 font-light leading-relaxed">
                 Strategic thinker and collaborative leader, focused on bridging student needs with administrative excellence and fostering inclusive campus dialogue.
@@ -162,49 +162,24 @@
             <div class="relative mb-8">
               <div class="w-48 h-48 mx-auto rounded-full border-3 border-gray-300 shadow-xl overflow-hidden bg-gradient-to-br from-gray-200 to-gray-300 group-hover:shadow-2xl transition-all duration-300">
                 <div class="w-full h-full flex items-center justify-center text-gray-500 text-base font-light">
-                  Team Photo
+                 <img src="/src/assets/woc.jpg" alt="Nicolina Nicosia Nana Nsowah-Nuamah" class="w-full h-full object-cover">
                 </div>
               </div>
               <div class="absolute -inset-2 border border-gray-400 rounded-full opacity-20 group-hover:opacity-30 transition-opacity"></div>
             </div>
             <div>
               <h3 class="md:text-xl font-serif font-light text-gray-800 tracking-wide mb-2">
-                DENNIS BORTEY BORTIER
+                NAOMI ISSAC
               </h3>
               <div class="w-16 h-px bg-gradient-to-r from-transparent via-gray-400 to-transparent mx-auto mb-3"></div>
               <p class="text-sm md:text-lg text-gray-600 font-light italic mb-4">
-                Vice President Candidate
+                Women's Commisioner Candidate
               </p>
               <p class="text-xs md:text-base text-gray-700 font-light leading-relaxed">
                 Strategic thinker and collaborative leader, focused on bridging student needs with administrative excellence and fostering inclusive campus dialogue.
               </p>
             </div>
           </div>
-
-          <!-- Finance & Operations -->
-          <div class="text-center group">
-            <div class="relative mb-8">
-              <div class="w-48 h-48 mx-auto rounded-full border-3 border-gray-300 shadow-xl overflow-hidden bg-gradient-to-br from-gray-200 to-gray-300 group-hover:shadow-2xl transition-all duration-300">
-                <div class="w-full h-full flex items-center justify-center text-gray-500 text-base font-light">
-                  Team Photo
-                </div>
-              </div>
-              <div class="absolute -inset-2 border border-gray-400 rounded-full opacity-20 group-hover:opacity-30 transition-opacity"></div>
-            </div>
-            <div>
-              <h3 class="md:text-xl font-serif font-light text-gray-800 tracking-wide mb-2">
-                DENNIS BORTEY BORTIER
-              </h3>
-              <div class="w-16 h-px bg-gradient-to-r from-transparent via-gray-400 to-transparent mx-auto mb-3"></div>
-              <p class="text-sm md:text-lg text-gray-600 font-light italic mb-4">
-                Vice President Candidate
-              </p>
-              <p class="text-xs md:text-base text-gray-700 font-light leading-relaxed">
-                Strategic thinker and collaborative leader, focused on bridging student needs with administrative excellence and fostering inclusive campus dialogue.
-              </p>
-            </div>
-          </div>
-
         </div>
 
         <!-- Team Values Section -->
