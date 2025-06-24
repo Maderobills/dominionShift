@@ -1,3 +1,5 @@
+import AchievementView from '@/views/AchievementView.vue'
+import GoalsView from '@/views/GoalsView.vue'
 import HomeView from '@/views/HomeView.vue'
 import PoliciesView from '@/views/PoliciesView.vue'
 import TeamView from '@/views/TeamView.vue'
@@ -16,14 +18,22 @@ const router = createRouter({
       name: 'policies',
       component: PoliciesView,
     },
-
+    {
+      path: '/goals',
+      name: 'goals',
+      component: GoalsView,
+    },
     {
       path: '/team',
       name: 'team',
       component: TeamView,
     },
-   
-   
+    ,
+    {
+      path: '/achievements',
+      name: 'achievements',
+      component: AchievementView,
+    },
   ],
 })
 
