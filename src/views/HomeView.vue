@@ -2,7 +2,7 @@
 
 <template>
   <section
-    class="min-h-screen md:h-full bg-gradient-to-br from-slate-100 via-gray-50 to-white relative overflow-hidden"
+    class="h-full bg-gradient-to-br from-slate-100 via-gray-50 to-white relative overflow-hidden overflow-y-scroll"
   >
     <!-- Subtle background pattern -->
     <div class="absolute inset-0 opacity-5">
@@ -147,7 +147,7 @@
 
     <!-- Bottom call-to-action -->
     <div
-      class="md:absolute bottom-0 left-0 right-0 bg-gradient-to-r from-slate-800 via-gray-800 to-slate-800 text-white py-6 px-8"
+      class=" left-0 right-0 bg-gradient-to-r from-slate-800 via-gray-800 to-slate-800 text-white py-6 px-8"
     >
       <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between">
         <div class="text-center md:text-left mb-4 md:mb-0">
