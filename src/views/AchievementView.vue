@@ -51,30 +51,25 @@
               <div class="flex items-center space-x-4">
                 <div class="w-3 h-3 rounded-full bg-gray-400"></div>
                 <p class="text-base text-gray-700 font-light">
-                  <span class="font-medium">Current GPA:</span> 3.8/4.0 - Dean's List Recognition
+                  <span class="font-medium">Current GPA:</span> 3.6 - Dean's List Recognition
                 </p>
               </div>
               
               <div class="flex items-center space-x-4">
                 <div class="w-3 h-3 rounded-full bg-gray-400"></div>
                 <p class="text-base text-gray-700 font-light">
-                  <span class="font-medium">Major:</span> Political Science & International Relations
+                  <span class="font-medium">Major:</span> Computer Science With Management
                 </p>
               </div>
               
               <div class="flex items-center space-x-4">
                 <div class="w-3 h-3 rounded-full bg-gray-400"></div>
                 <p class="text-base text-gray-700 font-light">
-                  <span class="font-medium">Leadership Experience:</span> 4+ Years in Student Government
+                  <span class="font-medium">Leadership Experience:</span> 2+ Years in Student Government
                 </p>
               </div>
               
-              <div class="flex items-center space-x-4">
-                <div class="w-3 h-3 rounded-full bg-gray-400"></div>
-                <p class="text-base text-gray-700 font-light">
-                  <span class="font-medium">Community Impact:</span> 500+ Volunteer Hours
-                </p>
-              </div>
+              
             </div>
           </div>
         </div>
@@ -99,7 +94,7 @@
             <div class="bg-white/50 backdrop-blur-sm rounded-lg p-8 shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-200">
               <div class="text-center">
                 <div class="w-16 h-16 rounded-full bg-gradient-to-br from-gray-300 to-gray-400 flex items-center justify-center mx-auto mb-6">
-                  <span class="text-2xl font-serif font-light text-white">3.8</span>
+                  <span class="text-2xl font-serif font-light text-white">3.6</span>
                 </div>
                 <h3 class="text-xl font-serif font-light text-gray-800 mb-3 tracking-wide">Cumulative GPA</h3>
                 <p class="text-base text-gray-600 font-light leading-relaxed">
@@ -127,7 +122,7 @@
                 </div>
                 <h3 class="text-xl font-serif font-light text-gray-800 mb-3 tracking-wide">Research Scholar</h3>
                 <p class="text-base text-gray-600 font-light leading-relaxed">
-                  Published undergraduate research on "Student Governance and Campus Democracy" in the University Journal.
+                  Published research on "Modular Construction in Ghana: The Ecopanel Advantage and Others" in a Masters Thesis and Researches.
                 </p>
               </div>
             </div>
@@ -151,7 +146,7 @@
             <div class="flex flex-col lg:flex-row items-start gap-8">
               <div class="lg:w-1/4 flex-shrink-0">
                 <div class="bg-gradient-to-br from-gray-300 to-gray-400 text-white p-4 rounded-lg text-center">
-                  <div class="text-sm font-light tracking-wide uppercase mb-1">2023-2024</div>
+                  <div class="text-sm font-light tracking-wide uppercase mb-1">2023-2025</div>
                   <div class="text-lg font-serif font-light">Vice President</div>
                   <div class="text-sm font-light mt-1">Student Government</div>
                 </div>
@@ -159,7 +154,7 @@
               <div class="lg:w-3/4">
                 <h3 class="text-2xl font-serif font-light text-gray-800 mb-4">SRC Vice President</h3>
                 <p class="text-base text-gray-700 font-light leading-relaxed mb-4">
-                  Successfully served as Vice President, implementing key initiatives that improved student life and campus engagement. Led the Student Wellness Committee and spearheaded the mental health awareness campaign.
+                  Successfully served as Vice President, implementing key initiatives that improved student life and campus engagement. Led the Student Event Committee.
                 </p>
                 <div class="space-y-2">
                   <div class="flex items-center space-x-3">
@@ -168,11 +163,15 @@
                   </div>
                   <div class="flex items-center space-x-3">
                     <div class="w-2 h-2 rounded-full bg-gray-400"></div>
-                    <span class="text-sm text-gray-600">Established peer mentorship program serving 200+ students</span>
+                    <span class="text-sm text-gray-600">Established Coding club for coding and I.T literacy programmes</span>
                   </div>
                   <div class="flex items-center space-x-3">
                     <div class="w-2 h-2 rounded-full bg-gray-400"></div>
-                    <span class="text-sm text-gray-600">Secured $15,000 additional funding for student organizations</span>
+                    <span class="text-sm text-gray-600">Established student gaming club and activities </span>
+                  </div>
+                  <div class="flex items-center space-x-3">
+                    <div class="w-2 h-2 rounded-full bg-gray-400"></div>
+                    <span class="text-sm text-gray-600">Established and Secured partnerships with other institutions </span>
                   </div>
                 </div>
               </div>
@@ -182,20 +181,20 @@
             <div class="flex flex-col lg:flex-row items-start gap-8">
               <div class="lg:w-1/4 flex-shrink-0">
                 <div class="bg-gradient-to-br from-gray-300 to-gray-400 text-white p-4 rounded-lg text-center">
-                  <div class="text-sm font-light tracking-wide uppercase mb-1">2022-2023</div>
-                  <div class="text-lg font-serif font-light">Senator</div>
-                  <div class="text-sm font-light mt-1">Student Senate</div>
+                  <div class="text-sm font-light tracking-wide uppercase mb-1">2024-2025</div>
+                  <div class="text-lg font-serif font-light">General Secretary</div>
+                  <div class="text-sm font-light mt-1">Student Secretariat</div>
                 </div>
               </div>
               <div class="lg:w-3/4">
-                <h3 class="text-2xl font-serif font-light text-gray-800 mb-4">Student Senator</h3>
+                <h3 class="text-2xl font-serif font-light text-gray-800 mb-4">Student Secretariat</h3>
                 <p class="text-base text-gray-700 font-light leading-relaxed mb-4">
-                  Represented student interests in academic policy discussions and campus governance. Authored three successful resolutions improving campus accessibility and student resources.
+                  Represented student interests in academic policy discussions as the General Secretary for Computer Science Student Association (COMSSA).
                 </p>
                 <div class="space-y-2">
                   <div class="flex items-center space-x-3">
                     <div class="w-2 h-2 rounded-full bg-gray-400"></div>
-                    <span class="text-sm text-gray-600">Authored Campus Accessibility Enhancement Act</span>
+                    <span class="text-sm text-gray-600">Authored Campus Activities and Workshops</span>
                   </div>
                   <div class="flex items-center space-x-3">
                     <div class="w-2 h-2 rounded-full bg-gray-400"></div>
@@ -203,7 +202,7 @@
                   </div>
                   <div class="flex items-center space-x-3">
                     <div class="w-2 h-2 rounded-full bg-gray-400"></div>
-                    <span class="text-sm text-gray-600">Maintained 95% attendance record at all sessions</span>
+                    <span class="text-sm text-gray-600">Maintained 60% attendance record at all sessions</span>
                   </div>
                 </div>
               </div>
@@ -213,28 +212,24 @@
             <div class="flex flex-col lg:flex-row items-start gap-8">
               <div class="lg:w-1/4 flex-shrink-0">
                 <div class="bg-gradient-to-br from-gray-300 to-gray-400 text-white p-4 rounded-lg text-center">
-                  <div class="text-sm font-light tracking-wide uppercase mb-1">2021-2022</div>
-                  <div class="text-lg font-serif font-light">President</div>
-                  <div class="text-sm font-light mt-1">Debate Society</div>
+                  <div class="text-sm font-light tracking-wide uppercase mb-1">2025</div>
+                  <div class="text-lg font-serif font-light">WOCOM</div>
+                  <div class="text-sm font-light mt-1">Team Member (BIZINOVATOR)</div>
                 </div>
               </div>
               <div class="lg:w-3/4">
-                <h3 class="text-2xl font-serif font-light text-gray-800 mb-4">Debate Society President</h3>
+                <h3 class="text-2xl font-serif font-light text-gray-800 mb-4">BIZINOVATOR STARTUP</h3>
                 <p class="text-base text-gray-700 font-light leading-relaxed mb-4">
-                  Led the university's premier debate organization, organizing inter-collegiate competitions and developing critical thinking skills among members.
+                  Second Runner Up for the pitching of "AgriTrust" a revolutionary agritech platform dedicated to bridging the finacial gap for small holder farmers in Ghana
                 </p>
                 <div class="space-y-2">
                   <div class="flex items-center space-x-3">
                     <div class="w-2 h-2 rounded-full bg-gray-400"></div>
-                    <span class="text-sm text-gray-600">Organized West African Universities Debate Championship</span>
+                    <span class="text-sm text-gray-600">Organized Campus Events and Activities</span>
                   </div>
                   <div class="flex items-center space-x-3">
                     <div class="w-2 h-2 rounded-full bg-gray-400"></div>
                     <span class="text-sm text-gray-600">Increased society membership by 60%</span>
-                  </div>
-                  <div class="flex items-center space-x-3">
-                    <div class="w-2 h-2 rounded-full bg-gray-400"></div>
-                    <span class="text-sm text-gray-600">Won "Outstanding Student Organization" award</span>
                   </div>
                 </div>
               </div>
@@ -242,7 +237,7 @@
           </div>
         </div>
 
-        <!-- Awards & Recognition -->
+        <!-- Awards & Recognition 
         <div class="group">
           <div class="text-center mb-12">
             <h2 class="text-4xl lg:text-5xl font-serif font-light text-gray-800 mb-6 tracking-wide">
@@ -315,7 +310,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <!-- Key Metrics -->
         <div class="text-center">
@@ -331,17 +326,12 @@
             </div>
             
             <div class="text-center">
-              <div class="text-5xl font-serif font-light text-gray-800 mb-4">15K</div>
-              <p class="text-lg text-gray-600 font-light">Funding Secured</p>
-            </div>
-            
-            <div class="text-center">
               <div class="text-5xl font-serif font-light text-gray-800 mb-4">200+</div>
               <p class="text-lg text-gray-600 font-light">Students Mentored</p>
             </div>
             
             <div class="text-center">
-              <div class="text-5xl font-serif font-light text-gray-800 mb-4">4</div>
+              <div class="text-5xl font-serif font-light text-gray-800 mb-4">3</div>
               <p class="text-lg text-gray-600 font-light">Years Leadership</p>
             </div>
           </div>

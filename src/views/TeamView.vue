@@ -104,7 +104,7 @@
                 General Secretary Candidate
               </p>
               <p class="text-xs md:text-base text-gray-700 font-light leading-relaxed">
-                Strategic thinker and collaborative leader, focused on bridging student needs with administrative excellence and fostering inclusive campus dialogue.
+              Dedicated to delivering high-quality results in every project. With a strong commitment to excellence and a clear sense of purpose.
               </p>
             </div>
           </div>
@@ -128,7 +128,8 @@
                 Financial Secretary Candidate
               </p>
               <p class="text-xs md:text-base text-gray-700 font-light leading-relaxed">
-                Strategic thinker and collaborative leader, focused on bridging student needs with administrative excellence and fostering inclusive campus dialogue.
+                An intelligent and detail-oriented, analytical precision and strategic insight to every task.
+                With a sharp eye for accuracy and a strong grasp of complex data.
               </p>
             </div>
           </div>
@@ -152,7 +153,7 @@
                 Public Relation Officer Candidate
               </p>
               <p class="text-xs md:text-base text-gray-700 font-light leading-relaxed">
-                Strategic thinker and collaborative leader, focused on bridging student needs with administrative excellence and fostering inclusive campus dialogue.
+                A principled and organized professional. Brings integrity and structure to every project. With a strong commitment to ethical standards and clear systems of operation, they consistently deliver reliable results while fostering trust and accountability in every environment.
               </p>
             </div>
           </div>
@@ -176,7 +177,9 @@
                 Women's Commisioner Candidate
               </p>
               <p class="text-xs md:text-base text-gray-700 font-light leading-relaxed">
-                Strategic thinker and collaborative leader, focused on bridging student needs with administrative excellence and fostering inclusive campus dialogue.
+                empathetic and straight-forward communicator who values honesty and human connection. Known for building strong relationships through clear, respectful dialogue, they approach challenges with both compassion and clarity, making them a trusted voice in any setting.
+
+
               </p>
             </div>
           </div>
